@@ -8,10 +8,9 @@ https://github.com/bkper/mvn-repo
 
 
 ```xml
-        <dependency>
-          <groupId>com.google.apis</groupId>
-          <artifactId>google-api-services-cloudcommerceprocurement</artifactId>
-          <version>v1-rev20190427-1.25.0</version>        
-        </dependency>
-
+<dependency>
+  <groupId>com.google.apis</groupId>
+  <artifactId>google-api-services-cloudcommerceprocurement</artifactId>
+  <version>v1-rev20190427-1.25.0</version>        
+</dependency>
 ```
