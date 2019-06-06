@@ -2,7 +2,7 @@ Cloud Commerce Partner Procurement API generated with [google-client-api-generat
 
 https://cloudcommerceprocurement.googleapis.com/$discovery/rest?version=v1
 
-A jar from this API was published in out internal maven repo:
+A jar from this API was published in our internal maven repo:
 
 https://github.com/bkper/mvn-repo
 
